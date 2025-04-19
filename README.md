@@ -11,9 +11,8 @@ Este é um projeto simples de conversor de moedas que utiliza uma API externa pa
 
 ## 🔧 Tecnologias utilizadas
 
-- Java (ou Python, JavaScript, etc — adapte conforme seu projeto)
-- [API de Câmbio](https://exchangerate.host/) (ou outra API de sua escolha)
-- (Se aplicável: Spring Boot, Axios, React, etc.)
+-  JavaScript, HTML,CSS
+- [API de Câmbio]([https://exchangerate.host/](https://economia.awesomeapi.com.br/json/last/USD-BRL)) (ou outra API de sua escolha)
 
 ## 🚀 Como executar
 
