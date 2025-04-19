@@ -12,7 +12,7 @@ Este é um projeto simples de conversor de moedas que utiliza uma API externa pa
 ## 🔧 Tecnologias utilizadas
 
 -  JavaScript, HTML,CSS
-- [API de Câmbio]([https://exchangerate.host/](https://economia.awesomeapi.com.br/json/last/USD-BRL)) (ou outra API de sua escolha)
+- [API de Câmbio](https://economia.awesomeapi.com.br/json/last/USD-BRL) (ou outra API de sua escolha)
 
 ## 🚀 Como executar
 
