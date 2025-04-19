@@ -6,7 +6,7 @@ Este é um projeto simples de conversor de moedas que utiliza uma API externa pa
 
 - Conversão automática de Dólar para Real.
 - Consumo de API externa de câmbio.
-- Interface simples e direta (CLI, Web ou outro formato — você pode especificar).
+- Interface simples e direta .
 - Atualização em tempo real da cotação do dólar.
 
 ## 🔧 Tecnologias utilizadas
